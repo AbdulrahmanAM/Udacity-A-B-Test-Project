@@ -1,0 +1,10 @@
+- https://docs.w3cub.com/statsmodels/generated/statsmodels.stats.proportion.proportions_ztest/
+- https://stattrek.com/statistics/dictionary.aspx?definition=critical%20value
+- https://matplotlib.org/gallery/lines_bars_and_markers/scatter_symbol.html?highlight=scatter%20symbol
+- https://python-graph-gallery.com/130-basic-matplotlib-scatterplot/
+- https://docs.scipy.org/doc/numpy/reference/generated/numpy.dot.html
+- https://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.inv.html
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.get_dummies.html
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.join.html
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.drop.html
+- https://en.wikipedia.org/wiki/Precision_and_recall
